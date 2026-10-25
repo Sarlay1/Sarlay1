@@ -1,11 +1,11 @@
 # Hi, I'm Dat 👋
 
-Third-year Information Technology student at **Posts and Telecommunications Institute of Technology (PTIT)**, Vietnam. Passionate about building scalable web applications with Java & Spring Boot and actively exploring DevOps practices.
+Information Technology Student at **Posts and Telecommunications Institute of Technology (PTIT)**, Vietnam (2024 - 2029). Passionate about building scalable web applications with Java & Spring Boot and actively exploring DevOps practices.
 
 ---
 
 ### 🚀 What I'm Up To
-- 🎓 **Education:** 3rd year IT Student at PTIT
+- 🎓 **Education:** IT Student at PTIT (Class of 2024 - 2029)
 - ☕ **Backend Focus:** Java, Spring Boot, RESTful APIs, Microservices architecture
 - 🎨 **Frontend Skills:** Web development with React, TypeScript & Tailwind / CSS
 - 🗄️ **Database:** MySQL, PostgreSQL, Spring Data JPA
